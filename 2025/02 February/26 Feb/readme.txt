@@ -14,6 +14,12 @@ Meaning : Strata means layers .
 Singular : Staratum
 
 Sentence :- 
-1. I feel a thin stratum of air . 
-2. Strata of people gathered for the concert . 
+a. I feel a thin stratum of air . 
+b. Strata of people gathered for the concert . 
+
+
+3. Flummoxed 
+
+Meaning : bewildered or shocked 
+Sentence : I was flummoxed upon seeing his physique . 
 
